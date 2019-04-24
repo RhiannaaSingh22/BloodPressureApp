@@ -5,7 +5,10 @@
 //  Created by Rhiannaa Singh on 23/04/2019.
 //  Copyright © 2019 Rhiannaa Singh. All rights reserved.
 //
-
+/*
+ References:
+ Build A Todo Application in Swift 4 | Auto Layout | Core Data. (2017). [video] Directed by G. Tokman. Youtube.
+ */
 import UIKit
 import CoreData
 

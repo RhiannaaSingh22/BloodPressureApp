@@ -5,6 +5,10 @@
 //  Created by Rhiannaa Singh on 20/04/2019.
 //  Copyright © 2019 Rhiannaa Singh. All rights reserved.
 //
+/*
+ References:
+    https://github.com/i-schuetz/SwiftCharts
+ */
 
 import UIKit
 import SwiftCharts

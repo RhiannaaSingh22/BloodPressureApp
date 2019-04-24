@@ -4,6 +4,13 @@
 //
 //  Created by Rhiannaa Singh on 09/04/2019.
 //  Copyright © 2019 Rhiannaa Singh. All rights reserved.
+
+/*
+ References:
+    Developer.apple.com. (2019). Scheduling a Notification Locally from Your App | Apple Developer Documentation. [online] Available at: https://developer.apple.com/documentation/usernotifications/scheduling_a_notification_locally_from_your_app [Accessed 24 Apr. 2019].
+    Build A Todo Application in Swift 4 | Auto Layout | Core Data. (2017). [video] Directed by G. Tokman. Youtube.
+ 
+ */
 //
 
 import UIKit
