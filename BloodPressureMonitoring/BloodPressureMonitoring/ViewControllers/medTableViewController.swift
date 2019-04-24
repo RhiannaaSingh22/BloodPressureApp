@@ -16,14 +16,14 @@ import CoreData
 class medTableViewController: UITableViewController {
     
     //MARK: - Properties
-    //generic so you woull dneed to specify the object it's resonsible for managing eg saving the medication showing in table
+    //generic so you would need to specify the object it's responsible for managing eg saving the medication showing in table
     var resultsController: NSFetchedResultsController<Medicine>!
     let coreDataStack = CoreDataStack()
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //Request - cretate a request to specify what to look for
+        //Request - create a request to specify what to look for
         let request:NSFetchRequest<Medicine> = Medicine.fetchRequest()
             //sort descriptors to be specific
         let sortDescriptors = NSSortDescriptor(key: "name", ascending: true)

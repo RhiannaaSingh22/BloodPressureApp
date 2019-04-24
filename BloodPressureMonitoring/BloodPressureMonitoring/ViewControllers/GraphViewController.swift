@@ -7,7 +7,7 @@
 //
 /*
  References:
-    https://github.com/i-schuetz/SwiftCharts
+    Schütz, I. (2019). SwiftCharts. [online] GitHub. Available at: https://github.com/i-schuetz/SwiftCharts 
  */
 
 import UIKit
